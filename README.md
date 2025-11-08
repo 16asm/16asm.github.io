@@ -26,5 +26,5 @@ Bu projenin **kişisel veri içermeyen tüm bileşenleri**,
 ## 🛠️ Kurulum (Örnek)
 ```bash
 git clone https://github.com/16asm/16asm.github.io.git
-cd <repo-adı>
+cd 16asm.github.io
 # Gerekli dosyaları yerel sunucunuza veya kurum içi host'a kopyalayın.
