@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Menteşe 16 Nolu Aile Sağlığı Merkezi",
+    "description": "",
+    "home_page_url": "https://16asm.github.io",
+    "feed_url": "https://16asm.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://16asm.github.io/media/website/ASMlogo.webp",
+    "author": {
+        "name": "Admin"
+    },
+    "items": [
+        {
+            "id": "https://16asm.github.io/gebe-izlem/",
+            "url": "https://16asm.github.io/gebe-izlem/",
+            "title": "Gebe İzlem",
+            "image": "https://16asm.github.io/media/posts/51/Basliksiz.png",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-05T01:36:54+03:00",
+            "date_modified": "2025-11-07T21:38:06+03:00"
+        },
+        {
+            "id": "https://16asm.github.io/akilci-ilac-kullanimi/",
+            "url": "https://16asm.github.io/akilci-ilac-kullanimi/",
+            "title": "Akılcı ilaç kullanımı",
+            "summary": "Bilgilendirme amaçlı akılcı ilaç kullanımı",
+            "content_html": "<p>Bilgilendirme amaçlı akılcı ilaç kullanımı</p>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-05T01:01:55+03:00",
+            "date_modified": "2025-11-05T01:02:04+03:00"
+        }
+    ]
+}
